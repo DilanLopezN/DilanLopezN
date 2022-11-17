@@ -41,6 +41,7 @@
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
  </div>
  
- 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
-
+ <h2 align="center"> 🔧 Github Analytics: </h2
+ <img align="center"
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DilanLopezN&show_icons=true&theme=tokyonight)
+>
