@@ -1,10 +1,11 @@
-- 👋 Hi, I’m @DilanLopezN
-- 👀 I’m interested in Mobile Games
-- 🌱 I’m currently learning React, NodeJS
-- 💞️ I’m looking to collaborate on Web Development
-- 📫 How to reach me https://www.linkedin.com/in/dilan-lopez-b43593147/
+<h1> Bem vindos sou Dilan Lopez Desenvolvedor Fullstack  https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px></h1> 
 
-<!---
-DilanLopezN/DilanLopezN is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+ ☑️ - Desenvolvedor FullStack jr
+ 
+ ☑️ - Desenvolvedor Mobile com React Native jr (futuramente pretendo aprender flutter) 
+ 
+ ♨️ - Atualmente faço alguns trabalhos Freelancer na workana
+ 
+ 
+ <h2 align="center"> 🔧 Tecnologias que domino: </h2>
+ <img align="center" alt="React" src="https://worldvectorlogo.com/logo/react-2">
