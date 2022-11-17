@@ -7,6 +7,10 @@
  ♨️ - Tenho facilidade e vontade de aprender sempre, estou em constante evolução e tenho como objetivo profissional criar uma carreira sólida e duradora       em alguma empresa na área de desenvolvimento, estou aberto a aprender novas linguagens fora da minha stack se necessário.
  
  📙 - Um pouco sobre mim: sou entusiasta da web 3, blockchain e metaverso, nas horas vagas gosto de programar jogos 2d com unity ou eclipse origins,           gosto de rock e mpb, participo de fórums de incetivo a criação e ensino de programação voltada para jogos como na aldeia rpg sou muito fã de animes       e nerd relacionado a ciências, filosofia e jogos
+ <h2 align="center"> 🔧 Social Links: </h2>
+ <a src="https://api.whatsapp.com/send?phone=5511944502819"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
+ 
+ 
  
  <h2 align="center"> 🔧 Tecnologias que domino: </h2>
  <h3> Front-End: </h3><div style="display:flex; justify-content:space-beetwen;">
