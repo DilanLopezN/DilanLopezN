@@ -42,6 +42,4 @@
  </div>
  
  <h2 align="center"> 🔧 Github Analytics: </h2
- <img align="center"
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DilanLopezN&show_icons=true&theme=tokyonight)
->
+ <img align="center" srx="![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DilanLopezN&show_icons=true&theme=tokyonight)">
