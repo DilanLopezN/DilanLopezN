@@ -4,8 +4,9 @@
  
  ☑️ - Desenvolvedor Mobile com React Native jr (futuramente pretendo aprender flutter) 
  
- ♨️ - Atualmente faço alguns trabalhos Freelancer na workana
+ ♨️ - Tenho facilidade e vontade de aprender sempre, estou em constante evolução e tenho como objetivo profissional criar uma carreira sólida e duradora       em alguma empresa na área de desenvolvimento, estou aberto a aprender novas linguagens fora da minha stack se necessário.
  
+ 📙 - Um pouco sobre mim: sou entusiasta da web 3, blockchain e metaverso, nas horas vagas gosto de programar jogos 2d com unity ou eclipse origins,           gosto de rock e mpb, participo de fórums de incetivo a criação e ensino de programação voltada para jogos como na aldeia rpg sou muito fã de animes       e nerd relacionado a ciências, filosofia e jogos
  
  <h2 align="center"> 🔧 Tecnologias que domino: </h2>
  <h3> Front-End: </h3><div style="display:flex; justify-content:space-beetwen;">
@@ -34,13 +35,12 @@
  </div>
   <h3> Linguagens e frameworks:</h3>
    <div style="display:flex; justify-content:space-beetwen;">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"> (Estudando a base atualmente)
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"> 
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white">
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
  </div>
  
  
-
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 
