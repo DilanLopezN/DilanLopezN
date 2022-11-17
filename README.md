@@ -42,4 +42,5 @@
  </div>
  
  <h2 align="center"> ↗️ Github Analytics: </h2
- <img width="530em" align="center" srx="https://github-readme-stats.vercel.app/api?username=DilanLopezN&show_icons=true&theme=tokyonight">
+ <img width="530em" align="center" src="https://github-readme-stats.vercel.app/api?username=DilanLopezN&show_icons=true&theme=tokyonight">
+ <img width="530em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DilanLopezN&layout=compact">
