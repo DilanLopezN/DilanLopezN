@@ -31,7 +31,7 @@
    <div style="display:flex; justify-content:space-beetwen;">
  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
  </div>
- <h2 align="center"> 🔧 Tecnologias que tenho interesse em aprender: </h2>
+ <h2 align="center"> ⏳  Tecnologias que tenho interesse em aprender: </h2>
  </div>
   <h3> Linguagens e frameworks:</h3>
    <div style="display:flex; justify-content:space-beetwen;">
@@ -41,5 +41,5 @@
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
  </div>
  
- <h2 align="center"> 🔧 Github Analytics: </h2
- <img align="center" srx="![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DilanLopezN&show_icons=true&theme=tokyonight)">
+ <h2 align="center"> ↗️ Github Analytics: </h2
+ <img align="center" srx="https://github-readme-stats.vercel.app/api?username=DilanLopezN&show_icons=true&theme=tokyonight">
