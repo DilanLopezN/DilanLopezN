@@ -8,4 +8,5 @@
  
  
  <h2 align="center"> 🔧 Tecnologias que domino: </h2>
- <img align="center" alt="React" src="https://worldvectorlogo.com/logo/react-2">
+ <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+
