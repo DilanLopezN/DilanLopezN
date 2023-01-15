@@ -41,11 +41,6 @@
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
  </div>
  
- <h2 align="center"> ↗️ Github Analytics: </h2>
-  <div style="display:flex; justify-content:space-beetwen;">
-  <img width="330em" align="center" src="https://github-readme-stats.vercel.app/api?username=DilanLopezN&show_icons=true&theme=tokyonight">
-  <img width="330em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DilanLopezN&layout=compact&theme=tokyonight">
-  </div>
 
   
   
