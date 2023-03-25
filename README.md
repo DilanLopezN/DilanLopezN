@@ -46,8 +46,8 @@
  </div>
  
  
+ <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DilanLopezN&layout=compact)" /></div>
 
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DilanLopezN&layout=compact)" />
 
   
   
