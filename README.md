@@ -1,54 +1,76 @@
-<h1> Bem vindos sou Dilan Lopez Desenvolvedor Fullstack  <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif"width=30px></h1> 
+<h1 align="center">Hey, eu sou o Dilan Lopez! 👋</h1>
 
- ☑️ - Desenvolvedor FullStack .NET e React
- 
- ☑️ - Desenvolvedor Mobile com React Native 
- 
- ♨️ - Tenho facilidade e vontade de aprender sempre, estou em constante evolução e tenho como objetivo profissional criar uma carreira sólida e duradora       em alguma empresa na área de desenvolvimento, estou aberto a aprender novas linguagens fora da minha stack se necessário.
- 
- 📙 - Um pouco sobre mim: sou entusiasta da web 3, blockchain e metaverso, nas horas vagas gosto de programar jogos 2d com unity ou eclipse origins,           gosto de rock e mpb, participo de fórums de incetivo a criação e ensino de programação voltada para jogos como na aldeia rpg sou muito fã de animes       e nerd relacionado a ciências, filosofia e jogos
- 
- <h2 align="center"> 🔧 Tecnologias que domino: </h2>
- <h3> Front-End: </h3><div style="display:flex; justify-content:space-beetwen;">
- <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
- <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
- <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white">
- <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white">
- <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
- <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
- <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white">
- <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"></div>
- <h3> Back-End:</h3>
- <div style="display:flex; justify-content:space-beetwen;">
- <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
- <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white">
- <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
- <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge">
- <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
- <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
- <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
- <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
- <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white">
- </div>
-  <h3> Mobile:</h3>
-   <div style="display:flex; justify-content:space-beetwen;">
- <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
- </div>
- <h2 align="center"> ⏳  Tecnologias que tenho interesse em aprender: </h2>
- </div>
-  <h3> Linguagens e frameworks:</h3>
-   <div style="display:flex; justify-content:space-beetwen;">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"> 
-  <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white">
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
- </div>
- 
- <br>
-<div style="margin-top:8px;" align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DilanLopezN&layout=compact" /></div>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=500&center=true&vCenter=true&width=435&lines=Desenvolvedor+Pleno+Fullstack;Apaixonado+por+tecnologia+e+c%C3%B3digo;6+anos+de+experi%C3%AAncia+em+backend" alt="Typing SVG" />
+</p>
 
+---
 
-  
-  
+### 🚀 Sobre mim
+
+💻 Desenvolvedor Pleno com mais de **6 anos de experiência** na área de desenvolvimento de software.  
+🌎 Apaixonado por backend, arquitetura de sistemas e explorar novas tecnologias.  
+🧠 Explorando Inteligência Artificial com foco em **RAG, LangChain e Fine-tuning de modelos**.  
+🎯 Sempre buscando evoluir e entregar soluções com performance e qualidade.
+
+---
+
+### 💼 Tecnologias que domino
+
+#### 🟩 Node.js
+- Express
+- Fastify
+- NestJS
+- ORMs: TypeORM, Prisma, Sequelize
+
+#### 🟦 C# (.NET)
+- .NET Core / ASP.NET
+- Entity Framework
+
+#### 🟨 Golang
+- RESTful APIs com alto desempenho
+
+#### 🧠 Inteligência Artificial
+- Python
+- LangChain
+- RAG
+- Fine-tuning de modelos
+
+#### 🛢️ Bancos de Dados
+- PostgreSQL
+- MySQL / MariaDB
+- SQLite
+- MongoDB
+- Redis
+
+#### 📦 DevOps / Infra
+- Docker
+- Kafka
+- Git & GitHub Actions
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dilanlopez&show_icons=true&theme=radical" alt="GitHub stats" />
+  <br />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dilanlopez&theme=radical" alt="GitHub Streak" />
+</p>
+
+---
+
+### 📫 Onde me encontrar
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/dilan-lopez-b43593147/)
+- 🧑‍💻 [Portfólio (em breve)](https://dilanlopez.dev)
+
+---
+
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExazJmYmJjcXZ6bWR1ODJsdTQ2bDY4amVhbXloZHB3amdpNHNja3p2diZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l4FGpP4lxGGgK5CBW/giphy.gif" width="250"/>
+</p>
+
+<p align="center">🔥 Sempre em busca do próximo desafio! 🔥</p>
+
  
