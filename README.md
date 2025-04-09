@@ -1,69 +1,71 @@
-<h1 align="center">Hey, eu sou o Dilan Lopez! 👋</h1>
+<h1 align="center">👋 Olá, eu sou o Dilan Lopez!</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=500&center=true&vCenter=true&width=435&lines=Desenvolvedor+Pleno+Fullstack;Apaixonado+por+tecnologia+e+c%C3%B3digo;6+anos+de+experi%C3%AAncia+em+backend" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=500&center=true&vCenter=true&width=480&lines=Desenvolvedor+Fullstack+Pleno;6+anos+de+experiência+em+tecnologia;Apaixonado+por+código+e+inovação;Backend+%2B+Frontend+%2B+IA" alt="Typing SVG" />
 </p>
 
 ---
 
 ### 🚀 Sobre mim
 
-💻 Desenvolvedor Pleno com mais de **6 anos de experiência** na área de desenvolvimento de software.  
-🌎 Apaixonado por backend, arquitetura de sistemas e explorar novas tecnologias.  
-🧠 Explorando Inteligência Artificial com foco em **RAG, LangChain e Fine-tuning de modelos**.  
-🎯 Sempre buscando evoluir e entregar soluções com performance e qualidade.
+💻 Sou um **Desenvolvedor Fullstack Pleno** com **+6 anos de experiência** em projetos robustos e escaláveis.  
+🛠️ Atuo tanto no **backend**, com foco em performance e arquitetura, quanto no **frontend**, com interfaces modernas e responsivas.  
+🧠 Apaixonado por Inteligência Artificial, explorando **LangChain**, **RAG** e **Fine-tuning** com **Python**.  
+🚢 Curioso por DevOps, microserviços, mensageria e novas tendências de tecnologia.  
+📱 Também tenho experiência com desenvolvimento **mobile** utilizando **React Native**.
 
 ---
 
-### 💼 Tecnologias que domino
+### 🧰 Tecnologias que domino
 
-#### 🟩 Node.js
-- Express
-- Fastify
-- NestJS
-- ORMs: TypeORM, Prisma, Sequelize
+#### ⚙️ Backend
+- **Node.js** (Express, Fastify, NestJS)
+- **C# (.NET)** (ASP.NET, .NET Core, Entity Framework)
+- **Golang**
+- **ORMs**: TypeORM, Prisma, Sequelize, Entity Framework
 
-#### 🟦 C# (.NET)
-- .NET Core / ASP.NET
-- Entity Framework
-
-#### 🟨 Golang
-- RESTful APIs com alto desempenho
+#### 🎨 Frontend & Mobile
+- **React.js**
+- **Next.js**
+- **React Native**
+- **HTML / CSS**
+- **Tailwind CSS**
+- **Styled Components**
 
 #### 🧠 Inteligência Artificial
-- Python
-- LangChain
-- RAG
-- Fine-tuning de modelos
+- **Python**
+- **LangChain**
+- **Retrieval-Augmented Generation (RAG)**
+- **Fine-tuning de modelos**
 
 #### 🛢️ Bancos de Dados
-- PostgreSQL
-- MySQL / MariaDB
-- SQLite
-- MongoDB
-- Redis
+- **PostgreSQL**
+- **MySQL / MariaDB**
+- **SQLite**
+- **MongoDB**
+- **Redis**
 
-#### 📦 DevOps / Infra
-- Docker
-- Kafka
-- Git & GitHub Actions
+#### 🐳 DevOps & Outros
+- **Docker**
+- **Kafka**
+- Git, GitHub Actions, CI/CD pipelines
 
 ---
 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dilanlopez&show_icons=true&theme=radical" alt="GitHub stats" />
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dilanlopez&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dilanlopez&layout=compact&theme=radical&langs_count=10&hide=html" alt="Top Languages" />
 </p>
+
+
 
 ---
 
 ### 📫 Onde me encontrar
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/dilan-lopez-b43593147/)
-- 🧑‍💻 [Portfólio (em breve)](https://dilanlopez.dev)
+- 📱 Em breve: [Portfólio](https://dilanlopez.dev)
 
 ---
 
@@ -71,6 +73,4 @@
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExazJmYmJjcXZ6bWR1ODJsdTQ2bDY4amVhbXloZHB3amdpNHNja3p2diZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l4FGpP4lxGGgK5CBW/giphy.gif" width="250"/>
 </p>
 
-<p align="center">🔥 Sempre em busca do próximo desafio! 🔥</p>
-
- 
+<p align="center">🔥 Em constante evolução — código limpo, soluções inteligentes! 🔥</p>
